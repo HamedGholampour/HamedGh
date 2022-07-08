@@ -6,4 +6,5 @@ for x in range (5,10):
     if x==7:
         print ("Finished Loop")
         break
-
+print ("Hello World")
+print ("This is Test")
